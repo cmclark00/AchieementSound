@@ -100,6 +100,7 @@ int main(int argc, char* argv[])
                         break;
                     case SDLK_RETURN:
                     case SDLK_SPACE:
+                        break;
                     default:
                         // Perform the appropriate action and quit the program
                         
